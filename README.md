@@ -5,8 +5,10 @@
 ---
 
 <p align="center">
-  <img src="doomfire.gif">
+  <img src="doomfire.gif" width="250">
 </p>
+
+---
 
 ## Live :)
 
